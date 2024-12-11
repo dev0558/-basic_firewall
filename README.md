@@ -4,6 +4,7 @@
 # **Basic Firewall Project**
 
 A Python-based simulation of a rule-based firewall designed to monitor and control network traffic. This project includes both a **command-line interface (CLI)** and a **graphical user interface (GUI)** for rule management, along with traffic logging and analytics.
+Check this video to See the demonstration: https://youtu.be/SD6IPPylr8w
 
 ---
 
