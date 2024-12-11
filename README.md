@@ -69,7 +69,7 @@ Traffic actions are logged in `traffic.log` with details like timestamps, IP add
 ### **Steps**
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/<your-username>/basic_firewall.git
+   git clone https://github.com/dev0558/basic_firewall.git
    cd basic_firewall
    ```
 2. Install required dependencies:
